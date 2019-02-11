@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\diplomado\Practicas 4_tarea-1\Ejercicio4-2_Tarea1\Ejercicio4-2_Tarea1\bin\Debug\Ejercicio4-2_Tarea1.exe.config
+C:\Users\pc\Desktop\diplomado\Practicas 4_tarea-1\Ejercicio4-2_Tarea1\Ejercicio4-2_Tarea1\bin\Debug\Ejercicio4-2_Tarea1.exe
+C:\Users\pc\Desktop\diplomado\Practicas 4_tarea-1\Ejercicio4-2_Tarea1\Ejercicio4-2_Tarea1\bin\Debug\Ejercicio4-2_Tarea1.pdb
+C:\Users\pc\Desktop\diplomado\Practicas 4_tarea-1\Ejercicio4-2_Tarea1\Ejercicio4-2_Tarea1\obj\Debug\Ejercicio4-2_Tarea1.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\diplomado\Practicas 4_tarea-1\Ejercicio4-2_Tarea1\Ejercicio4-2_Tarea1\obj\Debug\Ejercicio4-2_Tarea1.exe
+C:\Users\pc\Desktop\diplomado\Practicas 4_tarea-1\Ejercicio4-2_Tarea1\Ejercicio4-2_Tarea1\obj\Debug\Ejercicio4-2_Tarea1.pdb
